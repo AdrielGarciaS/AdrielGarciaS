@@ -4,6 +4,4 @@
 
 ### Welcome to my profile! :rocket:
 
-Enthusiast of technology and how it can cause a great impact in the world.
-I'm a fullstack JavaScript and TypeScript developer, specialist interested in ReactJS, Node.js, React Native and all the ecosystem around it. I had worked with IT support for 7 years, so I have the experience to understand user's needs.
-I want to make some difference on people's lives with development.
+I have 10+ years of experience in IT, and since 2019, I have been working as a frontend specialist in software development, using ReactJS and Node.js. My goal is to make amazing products and ensure that users have a great experience. I am a technology geek and love to learn new things. I enjoy working in teams and always share what I learn.
